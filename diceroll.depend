@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1392782090 source:c:\users\dzammit\dropbox\programming\c++\samsteachyourself\diceroll\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
